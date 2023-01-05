@@ -65,7 +65,7 @@ main {
 }
 .about {
     text-align: center;
-    margin-top: 130px;
+
     background: #fff8f3;
     border-radius: 10px;
     padding: 130px 150px;
@@ -73,7 +73,8 @@ main {
 .section-title {
     font-weight: 700;
     font-size: 35px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    text-align: center;
 }
 .section-description {
     color: #757575;
@@ -94,6 +95,9 @@ main {
     font-weight: 20px;
     color: #474747;
 }
+section {
+    margin-top: 130px;
+}
 .what-i-do {
     margin-top: 130px;
 }
@@ -110,7 +114,7 @@ main {
 .skills-title {
     font-weight: 700;
     font-size: 20px;
-    margin-top: 30px;
+    margin: top 30px;
     margin-bottom: 20px;
 }
 .skill-description {
